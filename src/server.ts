@@ -15,7 +15,6 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
   // @TODO1 IMPLEMENT A RESTFUL ENDPOINT
   // endpoint to filter an image from a public url.
-  // IT SHOULD
   
   //    4. deletes any files on the server on finish of the response
   // QUERY PARAMATERS
